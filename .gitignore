@@ -1,2 +1,3 @@
-system/log/*.log
+system/logs/*.log
+.vagrant/
 *.log
